@@ -1,4 +1,1 @@
-Learn git
-in local repository
-sama saya diedit by dali
-kita edit sama-sama
+Test Conflic
